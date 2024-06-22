@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue1">#008EFF</color>
+    <color name="brown">#C8C2C2</color>
+    <color name="black">#FF000000</color>
+    <color name="slay_color">#673AB7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#03A9F4</color>
+    <color name="red">#FF0057</color>
+    <color name="x">#FFFFFF</color>
+    <color name="log">#24BAFD</color>
+    <color name="play">#000000</color>
+    <color name="background_color">#A7C7FB</color>
+    <color name="t">#005A5A</color>
+</resources>

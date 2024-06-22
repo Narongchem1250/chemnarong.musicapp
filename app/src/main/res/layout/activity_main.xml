@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/music">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/v"
+        android:alpha="0.7"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Music Make your day"
+        android:textColor="@color/brown"
+        android:textSize="15sp"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ClICK HERE"
+        android:textSize="16sp"
+        android:textColor="@color/brown"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/Move"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Start"
+        android:backgroundTint="@color/blue"
+        android:textColor="@color/white"
+        android:layout_marginTop="15dp" />
+
+</LinearLayout>
